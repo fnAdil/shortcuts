@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD4313CD-C329-4726-AB4A-F78FFE86DFD9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67579145-491F-4BA0-8AC7-0E42455426CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Intentss/OpenAppIntentHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "handle(intent:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67579145-491F-4BA0-8AC7-0E42455426CA - c6659bbfde7c8948"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shortcuts.OpenAppIntentHandler.handle(intent: shortcuts.OpenAppIntent, completion: (shortcuts.OpenAppIntentResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "shortcuts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adilozdemir/Swift%20Projects/shortcuts/Intentss/OpenAppIntentHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "67579145-491F-4BA0-8AC7-0E42455426CA - c6659bbfde7c8929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shortcuts.OpenAppIntentHandler.handle(intent: shortcuts.OpenAppIntent, completion: (shortcuts.OpenAppIntentResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "shortcuts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adilozdemir/Swift%20Projects/shortcuts/Intentss/OpenAppIntentHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFFE17AA-3A57-4052-B964-AD511A90D1F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Intentss/IntentHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "handler(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AE089FC-D884-4E4F-9171-D43B9854BC85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shortcutsTests/OrderDetailDeeplinkItemTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "OrderDetailDeeplinkItemTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
